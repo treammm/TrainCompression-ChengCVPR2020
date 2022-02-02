@@ -16,11 +16,16 @@ pip install tensorflow-compression==1.3
 ```
 pip install range-coder
 ```
+- You may also need to install tensorflow-probability==0.7.0
+```
+pip install tensorflow-probability==0.7.0
+```
 
 ## Usage
 
+Modify the parameters in `trainer.py`, and then simply
 ```
-TBD
+python trainer.py
 ```
 
 ## Notes
