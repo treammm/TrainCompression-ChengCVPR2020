@@ -1,4 +1,4 @@
-# TrainCompression-ChengCVPR2020
+# Training code for "Learned Image Compression with Discretized Gaussian Mixture Likelihoods and Attention Modules"
 
 This repository contains the **training code** for the paper [1]. We implemented the training code based on the official inference code written in `Tensorflow 1.14`. The official repository can be found at [This GitHub Repo](https://github.com/ZhengxueCheng/Learned-Image-Compression-with-GMM-and-Attention), where the authors only provided inference code. 
 
